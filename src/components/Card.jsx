@@ -24,4 +24,5 @@ const Card = ({element,index,newval,deleteTodo,addEdit,setEdit}) => {
       );
   };
 
+  
 export default Card;
